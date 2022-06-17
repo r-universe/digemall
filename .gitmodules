@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bsearchtools"]
+	path = bsearchtools
+	url = https://github.com/digemall/bsearchtools
+	shallow = true
+	registered = true
+[submodule "stdvectors"]
+	path = stdvectors
+	url = https://github.com/digemall/stdvectors
+	shallow = true
+	registered = true

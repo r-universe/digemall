@@ -1,0 +1,10 @@
+[
+  {
+    "package": "bsearchtools",
+    "oncran": true
+  },
+  {
+    "package": "stdvectors",
+    "oncran": true
+  }
+]
